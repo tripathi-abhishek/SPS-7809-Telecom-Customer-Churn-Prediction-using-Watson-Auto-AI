@@ -1,7 +1,7 @@
 # SPS-7809-Telecom-Customer-Churn-Prediction-using-Watson-Auto-AI
 Telecom Customer Churn Prediction using Watson Auto AI
 
-### Abhishek Tripathi
+### By Abhishek Tripathi
 
 A Machine Learning project powered by IBM Cloud & SmartInternz.
 
@@ -28,9 +28,9 @@ A Machine Learning project powered by IBM Cloud & SmartInternz.
 ## References:
 
 ```
-	Scoring Endpoint: https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/a77fd05b-67a5-40d1-8ab1-17e160b261c8/predictions?version=2020-10-20
+	Scoring Endpoint: https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/099fbe59-3345-478b-9231-20de0b1758e1/predictions?version=2020-12-19
 	
-	Project Demonstration Video Link: https://drive.google.com/file/d/1zsHlecIcB76JRT8yOepPMlURsCig0nYi/view?usp=sharing
-  
 ```
+
+PROJECT VIDEO LINK : https://drive.google.com/file/d/1BTdmAG9pdBvJu-PSnKA5yNiQyQCjsJ38/view?usp=sharing
 
