@@ -3,7 +3,7 @@ Telecom Customer Churn Prediction using Watson Auto AI
 
 ### By Abhishek Tripathi
 
-A Machine Learning project powered by IBM Cloud & SmartInternz.
+A Machine Learning project powered by IBM Cloud & SmartInternz made during IBM-Build-a-Thon
 
 ## Objective:
 ```
