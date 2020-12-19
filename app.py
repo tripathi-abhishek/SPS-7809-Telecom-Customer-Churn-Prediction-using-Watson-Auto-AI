@@ -30,7 +30,7 @@ from config import basedir
 import requests
 
 # NOTE: you must manually set API_KEY below using information retrieved from your IBM Cloud account.
-API_KEY = "zRBLtuLfgDDRpq4IVwTKL8V2NOG7TGfKToH-oQclEZKE"
+API_KEY = "******"
 token_response = requests.post('https://iam.eu-gb.bluemix.net/identity/token', data={"apikey": API_KEY, "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'})
 mltoken = token_response.json()["access_token"]
 
@@ -97,7 +97,7 @@ def result():
 		# print("Scoring response")
 		# print(response_scoring.json())		
 		
-		response_scoring = requests.post('https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/099fbe59-3345-478b-9231-20de0b1758e1/predictions?version=2020-12-19', json=payload_scoring, headers={'Authorization': 'Bearer ' + mltoken})
+		response_scoring = requests.post('****', json=payload_scoring, headers={'Authorization': 'Bearer ' + mltoken})
 		print("Scoring response")
 		print(response_scoring.json())
 		
